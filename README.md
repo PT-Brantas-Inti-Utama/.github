@@ -1,7 +1,5 @@
 <div align="center">
 
-  <!-- Logo Perusahaan -->
-  <img src="https://github.com/brantasintiofficial/.github/raw/main/profile/logo.png" alt="PT. Brantas Inti Utama Logo" width="180" />
 
   # PT. BRANTAS INTI UTAMA
   **Solusi Survey & Pemetaan Terdepan & Consultant IT**
